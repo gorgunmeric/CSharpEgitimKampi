@@ -90,6 +90,7 @@ namespace _10_DatabaseCrud
             #endregion
 
             #region Ürün Güncelleme İşlemleri
+
             //Console.Write("Güncellenecek Ürün Id : ");            
             //int productId= int.Parse(Console.ReadLine());
 
